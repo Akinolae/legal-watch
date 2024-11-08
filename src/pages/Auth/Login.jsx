@@ -8,7 +8,7 @@ const Login = () => {
       page="Login"
       className="w-full h-screen flex  justify-center items-center"
     >
-      <div className="w-2/6">
+      <div className="w-1/4">
         <h1 className="font-medium text-3xl text-gray-500">Login</h1>
 
         <LoginForm />
